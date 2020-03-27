@@ -5,15 +5,26 @@ img {
 }
 
 h2 {
-
+  padding-top: 
   color: chocolate;
   font-family: Helvetica;
   text-align: center;
   font-size: 50px;
+  float: center;
+  border: solid darkblue;
+  background-color: lightcyan;
+  margin: auto;
+  width: 75%;
+}
+
+span {
+  color: darkblue;
+  font-style: oblique;
+  font-size: 60px;
  
 }
 body {
-  background-color: lightgrey;
+  background-color: lightblue;
 }
 
 
