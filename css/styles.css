@@ -1,16 +1,24 @@
 img {
   float: right;
+  margin: 6px
+}
+
+h2 {
+  font-family: Helvetica;
+  color: chocolate;
+  text-align: center;
+  font-size: 50px;
 }
 
 p {
-  width: 45%;
+  
   float: left;
 }
 
 .sidebar {
-  margin: 12px;
-  border: 2px solid green;
-  padding: 4px;
+  margin: 6px;
+  border: 5px solid green;
+  padding: 9px;
   background-color: orange;
   width: 20%;
   float: left;
