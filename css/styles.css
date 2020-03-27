@@ -1,8 +1,24 @@
 img {
   float: right;
+  margin: 10px;
+  border: 4px solid black
 }
 
+h2 {
+
+  color: chocolate;
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 50px;
+ 
+}
+body {
+  background-color: lightgrey;
+}
+
+
 p {
+  
   float: left;
 }
 
@@ -11,6 +27,6 @@ p {
   border: 2px solid green;
   padding: 4px;
   background-color: orange;
-  width: 15%;
+  width: 20%;
   float: left;
 }
